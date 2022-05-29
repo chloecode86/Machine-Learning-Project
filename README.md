@@ -11,7 +11,7 @@ The dataset is obtained from Kaggle.
 
 #### Methodoly
 1. Data Preprocessing via EDA & data cleaning. <br /> 
-2. Build Regression models to predict the sales. <br /> 
+2. Build models to predict the sales. <br /> 
 3. Evaluate the models & compare their respective RMSE. <br /> 
 
 
