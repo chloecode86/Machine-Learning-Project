@@ -16,10 +16,12 @@ The dataset is obtained from Kaggle.
 
 
 #### Models Used
-1. ARIMA
-2. FB PROPHET<br /> 
+1. ARIMA <br /> 
+<img src="(https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/ARIMA.png)" width="500" height="300"> <br /> 
+
+3. FB PROPHET<br /> 
    - Univariate <br />
    - Multivariate <br />
    - Seasonality <br />
-3. LSTM
-4. Regression
+4. LSTM
+5. Regression
