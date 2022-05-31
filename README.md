@@ -6,15 +6,20 @@ Mainly to analyze the Walmart sales data and predict their stores’ sales. Also
 
 
 #### Data Collection
-The dataset is obtained from Kaggle.
-
+The dataset is obtained from Kaggle. <br /> 
+<br />
+df.head() <br />
+<img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/df_head.png" width="400" height="120"> <br /> 
 
 #### Methodoly
 1. Data Preprocessing via EDA & data cleaning. <br /> 
 2. Build models to predict the sales. <br /> 
 3. Evaluate the models & compare their respective RMSE. <br /> 
 
-
+#### Exploratory Data Analysis
+<img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/EDA_Sales.png" width="480" height="240"> <br /> 
+Some seasonal peak sales pattern is shown around the year-end.<br />
+<br />
 #### Models Used
 1. ARIMA <br /> 
 <img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/ARIMA.png" width="500" height="300"> <br /> 
