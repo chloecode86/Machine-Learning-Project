@@ -18,8 +18,8 @@ The dataset is obtained from Kaggle.
 #### Models Used
 1. ARIMA
 2. FB PROPHET<br /> 
-   a) Univariate
-   b) Multivariate
-   c) Seasonality
+   a) Univariate <br />
+   b) Multivariate <br />
+   c) Seasonality <br />
 3. LSTM
 4. Regression
