@@ -17,11 +17,15 @@ The dataset is obtained from Kaggle.
 
 #### Models Used
 1. ARIMA <br /> 
-<img src="(https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/ARIMA.png)" width="500" height="300"> <br /> 
+<img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/ARIMA.png" width="500" height="300"> <br /> 
 
 3. FB PROPHET<br /> 
    - Univariate <br />
+<img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/FB_prophet_1.png" width="500" height="300"> <br /> 
    - Multivariate <br />
+<img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/FB_prophet_2.png" width="500" height="300"> <br /> 
    - Seasonality <br />
-4. LSTM
-5. Regression
+<img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/FB_prophet_3.png" width="500" height="300"> <br /> 
+4. LSTM <br />
+<img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/LSTM.png" width="500" height="300"> <br /> 
+6. Regression <br />
