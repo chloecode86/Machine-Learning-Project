@@ -19,13 +19,30 @@ The dataset is obtained from Kaggle.
 1. ARIMA <br /> 
 <img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/ARIMA.png" width="500" height="300"> <br /> 
 
-3. FB PROPHET<br /> 
+2. FB PROPHET<br /> 
    - Univariate <br />
 <img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/FB_prophet_1.png" width="500" height="300"> <br /> 
-   - Multivariate <br />
+   - Multivariate (add_regressor with **fuel_price** and **unemployment_rate**) <br />
 <img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/FB_prophet_2.png" width="500" height="300"> <br /> 
-   - Seasonality <br />
+   - Seasonality (with regards to **Christmas**, **Thanksgiving** and **Superbowl**)<br />
 <img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/FB_prophet_3.png" width="500" height="300"> <br /> 
-4. LSTM <br />
+3. LSTM <br />
 <img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/LSTM.png" width="500" height="300"> <br /> 
-6. Regression <br />
+4. Regression <br />
+
+
+#### Models Evaluation
+1. ARIMA <br />
+   - RMSE :  <br />
+2. FB PROPHET <br />
+   - Univariate :  <br />
+      - RMSE : <br />
+   - Multivariate : <br />
+      - RMSE : <br />
+   - Seasonality : <br />
+      - RMSE : <br />
+3. LSTM <br />
+   - RMSE : <br />
+4. Regression <br />
+   - RMSE :  <br />
+6. 
