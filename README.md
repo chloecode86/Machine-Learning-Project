@@ -10,7 +10,7 @@ Mainly to analyze the Walmart sales data and predict their stores’ sales. Also
 The dataset is obtained from Kaggle. <br /> 
 <br />
 df.head() <br />
-<img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/df_head.png" width="600" height="180"> <br /> 
+<img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/df_head.png" width="680" height="180"> <br /> 
 
 #### Methodoly
 1. Data Preprocessing via EDA & data cleaning. <br /> 
@@ -18,7 +18,7 @@ df.head() <br />
 3. Evaluate the models & compare their respective RMSE. <br /> 
 
 #### Exploratory Data Analysis
-<img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/EDA_Sales.png" width="580" height="320"> <br /> 
+<img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/EDA_Sales.png" width="650" height="280"> <br /> 
 Some seasonal peak sales pattern is shown around the year-end.<br />
 <br />
 #### Models Used
@@ -27,11 +27,11 @@ Some seasonal peak sales pattern is shown around the year-end.<br />
 
 2. FB PROPHET<br /> 
 Univariate <br />
-<img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/FB_prophet_1.png" width="500" height="300"> <br /> 
+<img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/FB_prophet_1.png" width="580" height="300"> <br /> 
 Multivariate (add_regressor with **fuel_price** and **unemployment_rate**) <br />
-<img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/FB_prophet_2.png" width="500" height="300"> <br /> 
+<img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/FB_prophet_2.png" width="590" height="300"> <br /> 
 Seasonality (with regards to **Christmas**, **Thanksgiving** and **Superbowl**)<br />
-<img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/FB_prophet_3.png" width="500" height="300"> <br /> 
+<img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/FB_prophet_3.png" width="580" height="300"> <br /> 
 3. LSTM <br />
 <img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/LSTM.png" width="500" height="300"> <br /> 
 4. Regression <br />
