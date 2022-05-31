@@ -9,7 +9,7 @@ Mainly to analyze the Walmart sales data and predict their stores’ sales. Also
 The dataset is obtained from Kaggle. <br /> 
 <br />
 df.head() <br />
-<img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/df_head.png" width="530" height="170"> <br /> 
+<img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/df_head.png" width="600" height="240"> <br /> 
 
 #### Methodoly
 1. Data Preprocessing via EDA & data cleaning. <br /> 
@@ -17,7 +17,7 @@ df.head() <br />
 3. Evaluate the models & compare their respective RMSE. <br /> 
 
 #### Exploratory Data Analysis
-<img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/EDA_Sales.png" width="480" height="240"> <br /> 
+<img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/EDA_Sales.png" width="580" height="320"> <br /> 
 Some seasonal peak sales pattern is shown around the year-end.<br />
 <br />
 #### Models Used
