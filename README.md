@@ -2,7 +2,7 @@
 ### Time Series Analysis on Walmart Sales
 
 #### Business Objective
-Mainly to analyze the Walmart sales data and predict their stores’ sales. Also, to examine if there is seasonal pattern which could be benefitial for better marketing tactics. The significance of the macro-indicators like CPI, Unemployment rate, Fuel price etc. against the sales figure have also been examined.
+Mainly to analyze the Walmart sales data and predict their stores’ sales. Also, to examine if there is seasonal sales pattern which could be beneficial for better marketing strategies. The significance of several macro-indicators like CPI, Unemployment rate, Fuel price etc. , which provided from the dataset, against the sales figure have also been examined.
 
 
 #### Data Collection
@@ -17,6 +17,9 @@ The dataset is obtained from Kaggle.
 
 #### Models Used
 1. ARIMA
-2. FB PROPHET
+2. FB PROPHET<br /> 
+   a) Univariate
+   b) Multivariate
+   c) Seasonality
 3. LSTM
 4. Regression
