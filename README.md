@@ -9,7 +9,7 @@ Mainly to analyze the Walmart sales data and predict their stores’ sales. Also
 The dataset is obtained from Kaggle. <br /> 
 <br />
 df.head() <br />
-<img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/df_head.png" width="400" height="120"> <br /> 
+<img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/df_head.png" width="530" height="170"> <br /> 
 
 #### Methodoly
 1. Data Preprocessing via EDA & data cleaning. <br /> 
