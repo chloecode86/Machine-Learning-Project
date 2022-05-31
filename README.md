@@ -42,6 +42,8 @@ Seasonality (with regards to **Christmas**, **Thanksgiving** and **Superbowl**)<
    - Seasonality : <br />
       - RMSE : 1970243.04 <br />
 3. LSTM <br />
+   - RMSE : 5097790.39 <br />
+5. Random Forest Regression <br />
    - RMSE : 520420.23 <br />
-4. Regression <br />
+6. Regression <br />
    - RMSE : 37682.05  <br />
