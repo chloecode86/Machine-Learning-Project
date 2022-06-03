@@ -34,7 +34,6 @@ Seasonality (with regards to **Christmas**, **Thanksgiving** and **Superbowl**)<
 <img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/FB_prophet_3.png" width="580" height="300"> <br /> 
 3. LSTM <br />
 <img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/LSTM.png" width="500" height="300"> <br /> 
-4. Regression <br />
 
 
 #### Models Evaluation
@@ -49,7 +48,6 @@ Seasonality (with regards to **Christmas**, **Thanksgiving** and **Superbowl**)<
       - RMSE : 1970243.04 <br />
 3. LSTM <br />
    - RMSE : 5097790.39 <br />
-5. Random Forest Regression <br />
-   - RMSE : 520420.23 <br />
-6. Regression <br />
-   - RMSE : 37682.05  <br />
+ <br />
+Based on the RMSE values, we can conclude that fbProphet has given us the best results. But given that we have more data, with proper fine tuning, LSTM & ARIMA may perform better as well.
+
