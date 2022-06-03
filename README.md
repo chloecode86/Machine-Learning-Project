@@ -21,6 +21,8 @@ df.head() <br />
 <img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/EDA_Sales.png" width="650" height="280"> <br /> 
 Some seasonal peak sales pattern is shown around the year-end.<br />
 <br />
+<img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/EDA_Variables.png" width="650" height="280"> <br /> 
+ <br /> 
 #### Models Used
 1. ARIMA <br /> 
 <img src="https://github.com/chloecode86/Machine-Learning-Project/blob/main/graphs/ARIMA.png" width="500" height="300"> <br /> 
